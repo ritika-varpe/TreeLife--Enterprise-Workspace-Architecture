@@ -669,8 +669,8 @@ For the screenshot, put the image in your repository like:
 
 Then this README line will work:
 
-![Workspace Storage](docs/workspace-storage.png)
+![Workspace Storage](workspace-storage.png)
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](architecture.png)
