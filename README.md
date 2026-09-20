@@ -665,8 +665,7 @@ The implementation focuses on demonstrating the core workflow required by the as
 For the screenshot, put the image in your repository like:
 
 ```text
-docs/
-└── workspace-storage.png
+── workspace-storage.png
 
 Then this README line will work:
 
